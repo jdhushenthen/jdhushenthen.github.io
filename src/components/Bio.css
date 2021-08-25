@@ -1,0 +1,30 @@
+.main {
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+}
+
+.headline {
+    font-weight: 800;
+    margin: 10vh 20vw 0 20vw;
+    padding: 0 0 4vh 0;
+}
+
+.job-list {
+    padding: 1vh 2.5vw 1vh 2.5vw;
+}
+
+.line {
+    margin: 0 20vw 0 20vw;
+    padding: 0.4vh 0 0.4vh 0;
+}
+
+.email {
+    margin: 0 20vw 0 20vw;
+    padding: 4vh 0 4vh 0;
+}
+
+.email-line {
+    color: black;
+}

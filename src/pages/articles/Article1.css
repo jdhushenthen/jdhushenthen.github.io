@@ -1,0 +1,28 @@
+.article {
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+ }
+
+ .article-headline {
+    margin: 10vh 20vw 0 20vw;
+    font-weight: 800;
+ }
+
+ .article-subheadline {
+    margin: 5vh 20vw 0 20vw;
+    font-weight: 800;
+ }
+
+ .text {
+    margin: 2vh 20vw 2vh 20vw;
+ }
+
+ .unordered-list {
+    padding: 0 2vw 0 2vw;
+}
+
+ .nested-text {
+    margin: 1vh 1vw 1vh 1vw;
+ }
