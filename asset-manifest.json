@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e75aeec.chunk.css",
+    "main.js": "/static/js/main.3098f1a8.chunk.js",
+    "main.js.map": "/static/js/main.3098f1a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.099ac6c5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.099ac6c5.js.map",
+    "static/js/2.820da25d.chunk.js": "/static/js/2.820da25d.chunk.js",
+    "static/js/2.820da25d.chunk.js.map": "/static/js/2.820da25d.chunk.js.map",
+    "static/js/3.2550c691.chunk.js": "/static/js/3.2550c691.chunk.js",
+    "static/js/3.2550c691.chunk.js.map": "/static/js/3.2550c691.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4e75aeec.chunk.css.map": "/static/css/main.4e75aeec.chunk.css.map",
+    "static/js/2.820da25d.chunk.js.LICENSE.txt": "/static/js/2.820da25d.chunk.js.LICENSE.txt",
+    "static/media/Janahan-Dhushenthen-Resume.f5955076.pdf": "/static/media/Janahan-Dhushenthen-Resume.f5955076.pdf",
+    "static/media/elevators.b46a6901.jpg": "/static/media/elevators.b46a6901.jpg",
+    "static/media/ufc-logo.87de628a.png": "/static/media/ufc-logo.87de628a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.099ac6c5.js",
+    "static/js/2.820da25d.chunk.js",
+    "static/css/main.4e75aeec.chunk.css",
+    "static/js/main.3098f1a8.chunk.js"
+  ]
+}
