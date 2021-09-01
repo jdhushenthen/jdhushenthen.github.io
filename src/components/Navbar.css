@@ -20,6 +20,7 @@
     cursor: pointer;
     text-decoration: none;
     padding: 0.5vh 10vw 0.5vh 0;
+    white-space: nowrap;
 }
 
 .nav-menu {
@@ -124,7 +125,7 @@
     .nav-links-mobile {
         display: block;
         text-align: center;
-        padding: 1.5rem;
+        padding: 1rem;
         margin: 2rem auto;
         border-radius: 4px;
         width: 80%;

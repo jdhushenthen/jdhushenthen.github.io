@@ -24,14 +24,18 @@
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     width: 50%;
     border-radius: 5px;
-    padding: 5vh 5vw 5vh 5vw;
+    padding: 5vh 5vw 2vh 5vw;
     margin: 0px 5px 0px 5px;
+}
+
+.projects-link {
+    text-decoration: none;
 }
 
 .image {
     width: 100%;
-    height: 90%;
-    padding: 2vh 2vw 4vh 2vw;
+    height: 75%;
+    padding: 2vh 2vw 0vh 2vw;
 }
 
 .projects-card:hover {
@@ -41,12 +45,14 @@
 }
 
 .projects-card:hover .overlay{
-    opacity:1;
     color: white;
     text-align: left;
+    transition: all 0.5s ease;
+    font-size: 1.5vw;
 }
 
 .overlay {
-    opacity: 0;
+    color: black;
+    text-align: left;
     font-size: 1.5vw;
 }

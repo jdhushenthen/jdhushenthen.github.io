@@ -3,18 +3,18 @@
 }
 
 .btn {
-    padding: 8px 20px;
+    padding: 8px 12px;
     outline: none;
     border: 2px solid black;
     cursor: pointer;
     white-space: nowrap;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
-    margin-right: 20vw;;;
+    margin-right: 20vw;
 }
 
 .btn:hover {
-    padding: 8px 20px;
+    padding: 8px 12px;
     transition: all 0.3 ease-out;
     background: black;
     color: #fff;
@@ -28,19 +28,19 @@
 .btn--outline {
     background-color: transparent;
     color: black;
-    padding: 8px 20px;
+    padding: 8px 12px;
     border: 2px solid var(--primary);
     transition: all 0.3s ease-out;
 }
 
 .btn--medium {
-    padding: 8px 20px;
+    padding: 8px 12px;
     font-size: 18px;
     color: black;
 }
 
 .btn--large {
-    padding: 12px 26px;
+    padding: 12px 18px;
     font-size: 20px;
     color: black;
 }

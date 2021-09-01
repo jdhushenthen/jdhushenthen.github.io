@@ -21,13 +21,13 @@ function Article1() {
             
             <ul className="unordered-list">
                 <li className="text">
-                    <b><a href="https://www.tapology.com/">Tapology</a>:</b> This website contains the fight results (and supplementary information) for every UFC fight. We can use these results to calculate a rating (see <a  href="https://en.wikipedia.org/wiki/Glicko_rating_system">Glicko-2</a>) for each fighter.
+                    <b><a href="https://www.tapology.com/" target="_blank">Tapology</a>:</b> This website contains the fight results (and supplementary information) for every UFC fight. We can use these results to calculate a rating (see <a  href="https://en.wikipedia.org/wiki/Glicko_rating_system" target="_blank">Glicko-2</a>) for each fighter.
                 </li>
                 <li className="text">
-                    <b><a href="http://ufcstats.com/">UFC Stats</a>:</b> This website contains striking and grappling statistics for each fighter. We can use this information to account for stylistic matches between fighters. In addition, we can get the physical attributes of each fighter.
+                    <b><a href="http://ufcstats.com/" target="_blank">UFC Stats</a>:</b> This website contains striking and grappling statistics for each fighter. We can use this information to account for stylistic matches between fighters. In addition, we can get the physical attributes of each fighter.
                 </li>
                 <li className="text">
-                    <b><a href="https://www.bestfightodds.com/">Best Fight Odds</a>:</b> This website contains the moving lines of different betting websites for each UFC fight since 2007. We can use this information to calculate the oddsmakers' implied probability of each fighter winning.
+                    <b><a href="https://www.bestfightodds.com/" target="_blank">Best Fight Odds</a>:</b> This website contains the moving lines of different betting websites for each UFC fight since 2007. We can use this information to calculate the oddsmakers' implied probability of each fighter winning.
                 </li>
             </ul>
 
@@ -126,7 +126,7 @@ function Article1() {
             </p>
                     
             <p className="text">
-                These strategies are described in detail <a href="https://www.bettingpros.com/articles/the-importance-of-bankroll-management-in-sports-betting/">here</a>. They should be compared and the most appropriate one should be selected.
+                These strategies are described in detail <a href="https://www.bettingpros.com/articles/the-importance-of-bankroll-management-in-sports-betting/" target="_blank">here</a>. They should be compared and the most appropriate one should be selected.
             </p>
 
             <div className="article-subheadline">

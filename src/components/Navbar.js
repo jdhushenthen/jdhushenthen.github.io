@@ -14,19 +14,19 @@ class Navbar extends Component {
     render() {
         return(
             <nav className="NavbarItems">
-                <Link className="navbar-logo" to="/"> jdhushenthen </Link>
+                <Link className="navbar-logo" to="/"> Janahan Dhushenthen </Link>
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
                 </div>
                 <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
-                    <li> <a className="nav-links" href={pdf} target="_blank"> resume </a> </li>
-                    <li> <Link className="nav-links" to='/blog'> blog </Link> </li>
-                    <li> <a className="nav-links" href="https://github.com/jdhushenthen" target="_blank"> github </a> </li>
-                    <li> <a className="nav-links" href="https://linkedin.com/in/jdhushenthen" target="_blank"> linkedin </a> </li>
-                    <li> <a className="nav-links-mobile" href="mailto:jdhushenthen@rogers.com"> hire me </a> </li>
+                    <li> <a className="nav-links" href={pdf} target="_blank" onClick={this.handleClick}> Resume </a> </li>
+                    <li> <Link className="nav-links" to='/blog' onClick={this.handleClick}> Blog </Link> </li>
+                    <li> <a className="nav-links" href="https://github.com/jdhushenthen" target="_blank" onClick={this.handleClick}> GitHub </a> </li>
+                    <li> <a className="nav-links" href="https://linkedin.com/in/jdhushenthen" target="_blank" onClick={this.handleClick}> LinkedIn </a> </li>
+                    <li> <a className="nav-links-mobile" href="mailto:jdhushenthen@rogers.com" onClick={this.handleClick}> Contact Me </a> </li>
                 </ul>
                 <a href="mailto:jdhushenthen@rogers.com">
-                    <Button> hire me </Button>
+                    <Button> Contact Me </Button>
                 </a>
             </nav>
         )
