@@ -9,7 +9,7 @@ function Article1() {
 
             <h3 className="article-subheadline"> I. OVERVIEW </h3>
             <p className="text"> 
-                The goal of the UFC Fight Predictor project is to see if we can analyze data about previous UFC fights to predict future fights 
+                The goal of the MMA Fight Predictor project is to see if we can analyze data about previous UFC fights to predict future fights 
                 with greater accuracy than the oddsmakers. If we can correctly identify an edge over the betting odds, we should theoretically 
                 be able to make money betting in the long-run. In order to do this, we will have to aggregate data from various sources 
                 and identify the statistically relevant features. We will then have to evaluate different potential models and select the best 
